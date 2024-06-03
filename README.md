@@ -37,6 +37,30 @@ To run the scraper, use the following command:
 ```sh
 node main.js
 ```
+# Puppeteer and AWS SDK Usage Guide
+
+## Table of Contents
+1. [Introduction](#introduction)
+2. [Prerequisites](#prerequisites)
+3. [Installing Puppeteer and AWS SDK](#installing-puppeteer-and-aws-sdk)
+4. [Using Puppeteer](#using-puppeteer)
+5. [Using AWS SDK](#using-aws-sdk)
+6. [Example Code](#example-code)
+7. [Resources](#resources)
+
+## Introduction
+This guide provides instructions on how to install Puppeteer and the AWS SDK in a Node.js project and gives examples of using both libraries.
+
+## Prerequisites
+- Node.js installed on your machine
+
+## Installing Puppeteer and AWS SDK
+
+### Using npm:
+
+```bash
+npm install puppeteer aws-sdk
+```
     
 # DynamoDB Usage Guide
 
