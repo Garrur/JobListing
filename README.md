@@ -37,6 +37,7 @@ To run the scraper, use the following command:
 ```sh
 node main.js
 ```
+and wait for few Seconds/Minute for Final Output
 # Puppeteer and AWS SDK Usage Guide
 
 ## Table of Contents
